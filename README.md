@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 Currently going through Full Stack Ruby on Rails Development Path on The Odin Project
+---
+:bar_chart: My Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humanathome&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
